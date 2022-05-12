@@ -60,6 +60,8 @@ const largeBox = (
 // Extra Credit Solution 2
 // function Box(props) {
 //   const className = 'box box--' + props.size
+//   // const sizeClassname = size ? `box--${size}` : '' 
+//   // className=`box ${className} ${sizeClassname}`
 //   const styles = props.style
 //   styles.fontStyle = 'italic'
 //   // console.log(styles)
